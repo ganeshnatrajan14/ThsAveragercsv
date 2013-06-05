@@ -1,6 +1,6 @@
 import sys
 class ThsAverager:
-  def __init__(self, input_file, output_file, ndata, init_temp, final_temp):
+	def __init__(self, input_file, output_file, ndata, init_temp, final_temp):
 		self.input_file = input_file
 		self.output_file = output_file
 		self.ndata = ndata
